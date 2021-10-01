@@ -23,7 +23,7 @@ days = (totalMs/(1000*60*60*24))
 days = int(days)
 
 print()
-print(f'Your total listening time in miliseconds is: {totalMs}')
+print(f'Your total listening time over the past year in miliseconds is: {totalMs}')
 print()
 print(f'days: {days}')
 print(f'hours: {hours}')
